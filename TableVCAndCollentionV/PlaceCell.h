@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PlaceCell.h
 //  CityDemo
 //
 //  Created by 李海瑞 on 16/4/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface PlaceCell : UICollectionViewCell
+@property (weak, nonatomic) IBOutlet UILabel *placelabel;
 @end
-

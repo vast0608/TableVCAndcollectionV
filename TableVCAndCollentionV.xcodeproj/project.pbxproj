@@ -7,35 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F4B8C291D77CFE700B35498 /* CityTableViewCell1.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F4B8C241D77CFE700B35498 /* CityTableViewCell1.m */; };
+		1F4B8C2A1D77CFE700B35498 /* CityTableViewCell1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F4B8C251D77CFE700B35498 /* CityTableViewCell1.xib */; };
+		1F4B8C2B1D77CFE700B35498 /* PlaceCell1.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F4B8C271D77CFE700B35498 /* PlaceCell1.m */; };
+		1F4B8C2C1D77CFE700B35498 /* PlaceCell1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F4B8C281D77CFE700B35498 /* PlaceCell1.xib */; };
+		1F4B8C2F1D78041E00B35498 /* ABCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F4B8C2E1D78041E00B35498 /* ABCViewController.m */; };
 		EA334EF51CC4C12800E13648 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334EF41CC4C12800E13648 /* main.m */; };
 		EA334EF81CC4C12800E13648 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334EF71CC4C12800E13648 /* AppDelegate.m */; };
 		EA334EFB1CC4C12800E13648 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334EFA1CC4C12800E13648 /* ViewController.m */; };
 		EA334EFE1CC4C12800E13648 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA334EFC1CC4C12800E13648 /* Main.storyboard */; };
 		EA334F001CC4C12800E13648 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA334EFF1CC4C12800E13648 /* Assets.xcassets */; };
 		EA334F031CC4C12800E13648 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA334F011CC4C12800E13648 /* LaunchScreen.storyboard */; };
-		EA334F0E1CC4C12800E13648 /* CityDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334F0D1CC4C12800E13648 /* CityDemoTests.m */; };
-		EA334F191CC4C12800E13648 /* CityDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334F181CC4C12800E13648 /* CityDemoUITests.m */; };
+		EA334F291CC4C38800E13648 /* CityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334F271CC4C38800E13648 /* CityTableViewCell.m */; };
+		EA334F2A1CC4C38800E13648 /* CityTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA334F281CC4C38800E13648 /* CityTableViewCell.xib */; };
+		EA334F2E1CC4D08F00E13648 /* PlaceCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EA334F2C1CC4D08F00E13648 /* PlaceCell.m */; };
+		EA334F2F1CC4D08F00E13648 /* PlaceCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA334F2D1CC4D08F00E13648 /* PlaceCell.xib */; };
+		EAEADE731EFA12B00065EB5E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EAEADE721EFA12B00065EB5E /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		EA334F0A1CC4C12800E13648 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = EA334EE81CC4C12700E13648 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = EA334EEF1CC4C12800E13648;
-			remoteInfo = CityDemo;
-		};
-		EA334F151CC4C12800E13648 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = EA334EE81CC4C12700E13648 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = EA334EEF1CC4C12800E13648;
-			remoteInfo = CityDemo;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		EA334EF01CC4C12800E13648 /* CityDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CityDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F4B8C231D77CFE700B35498 /* CityTableViewCell1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityTableViewCell1.h; sourceTree = "<group>"; };
+		1F4B8C241D77CFE700B35498 /* CityTableViewCell1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityTableViewCell1.m; sourceTree = "<group>"; };
+		1F4B8C251D77CFE700B35498 /* CityTableViewCell1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CityTableViewCell1.xib; sourceTree = "<group>"; };
+		1F4B8C261D77CFE700B35498 /* PlaceCell1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceCell1.h; sourceTree = "<group>"; };
+		1F4B8C271D77CFE700B35498 /* PlaceCell1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceCell1.m; sourceTree = "<group>"; };
+		1F4B8C281D77CFE700B35498 /* PlaceCell1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlaceCell1.xib; sourceTree = "<group>"; };
+		1F4B8C2D1D78041E00B35498 /* ABCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABCViewController.h; sourceTree = "<group>"; };
+		1F4B8C2E1D78041E00B35498 /* ABCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABCViewController.m; sourceTree = "<group>"; };
+		EA334EF01CC4C12800E13648 /* TableVCAndCollentionV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableVCAndCollentionV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA334EF41CC4C12800E13648 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EA334EF61CC4C12800E13648 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EA334EF71CC4C12800E13648 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,30 +44,17 @@
 		EA334EFF1CC4C12800E13648 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA334F021CC4C12800E13648 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA334F041CC4C12800E13648 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EA334F091CC4C12800E13648 /* CityDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CityDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA334F0D1CC4C12800E13648 /* CityDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CityDemoTests.m; sourceTree = "<group>"; };
-		EA334F0F1CC4C12800E13648 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EA334F141CC4C12800E13648 /* CityDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CityDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA334F181CC4C12800E13648 /* CityDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CityDemoUITests.m; sourceTree = "<group>"; };
-		EA334F1A1CC4C12800E13648 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA334F261CC4C38800E13648 /* CityTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityTableViewCell.h; sourceTree = "<group>"; };
+		EA334F271CC4C38800E13648 /* CityTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityTableViewCell.m; sourceTree = "<group>"; };
+		EA334F281CC4C38800E13648 /* CityTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CityTableViewCell.xib; sourceTree = "<group>"; };
+		EA334F2B1CC4D08F00E13648 /* PlaceCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceCell.h; sourceTree = "<group>"; };
+		EA334F2C1CC4D08F00E13648 /* PlaceCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceCell.m; sourceTree = "<group>"; };
+		EA334F2D1CC4D08F00E13648 /* PlaceCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlaceCell.xib; sourceTree = "<group>"; };
+		EAEADE721EFA12B00065EB5E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		EA334EED1CC4C12800E13648 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EA334F061CC4C12800E13648 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EA334F111CC4C12800E13648 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -81,9 +67,8 @@
 		EA334EE71CC4C12700E13648 = {
 			isa = PBXGroup;
 			children = (
-				EA334EF21CC4C12800E13648 /* CityDemo */,
-				EA334F0C1CC4C12800E13648 /* CityDemoTests */,
-				EA334F171CC4C12800E13648 /* CityDemoUITests */,
+				EAEADE721EFA12B00065EB5E /* Default-568h@2x.png */,
+				EA334EF21CC4C12800E13648 /* TableVCAndCollentionV */,
 				EA334EF11CC4C12800E13648 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -91,14 +76,12 @@
 		EA334EF11CC4C12800E13648 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA334EF01CC4C12800E13648 /* CityDemo.app */,
-				EA334F091CC4C12800E13648 /* CityDemoTests.xctest */,
-				EA334F141CC4C12800E13648 /* CityDemoUITests.xctest */,
+				EA334EF01CC4C12800E13648 /* TableVCAndCollentionV.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA334EF21CC4C12800E13648 /* CityDemo */ = {
+		EA334EF21CC4C12800E13648 /* TableVCAndCollentionV */ = {
 			isa = PBXGroup;
 			children = (
 				EA334EF61CC4C12800E13648 /* AppDelegate.h */,
@@ -106,12 +89,26 @@
 				EA334EF91CC4C12800E13648 /* ViewController.h */,
 				EA334EFA1CC4C12800E13648 /* ViewController.m */,
 				EA334EFC1CC4C12800E13648 /* Main.storyboard */,
+				EA334F261CC4C38800E13648 /* CityTableViewCell.h */,
+				EA334F271CC4C38800E13648 /* CityTableViewCell.m */,
+				EA334F281CC4C38800E13648 /* CityTableViewCell.xib */,
+				EA334F2B1CC4D08F00E13648 /* PlaceCell.h */,
+				EA334F2C1CC4D08F00E13648 /* PlaceCell.m */,
+				EA334F2D1CC4D08F00E13648 /* PlaceCell.xib */,
+				1F4B8C231D77CFE700B35498 /* CityTableViewCell1.h */,
+				1F4B8C241D77CFE700B35498 /* CityTableViewCell1.m */,
+				1F4B8C251D77CFE700B35498 /* CityTableViewCell1.xib */,
+				1F4B8C261D77CFE700B35498 /* PlaceCell1.h */,
+				1F4B8C271D77CFE700B35498 /* PlaceCell1.m */,
+				1F4B8C281D77CFE700B35498 /* PlaceCell1.xib */,
+				1F4B8C2D1D78041E00B35498 /* ABCViewController.h */,
+				1F4B8C2E1D78041E00B35498 /* ABCViewController.m */,
 				EA334EFF1CC4C12800E13648 /* Assets.xcassets */,
 				EA334F011CC4C12800E13648 /* LaunchScreen.storyboard */,
 				EA334F041CC4C12800E13648 /* Info.plist */,
 				EA334EF31CC4C12800E13648 /* Supporting Files */,
 			);
-			path = CityDemo;
+			path = TableVCAndCollentionV;
 			sourceTree = "<group>";
 		};
 		EA334EF31CC4C12800E13648 /* Supporting Files */ = {
@@ -122,30 +119,12 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		EA334F0C1CC4C12800E13648 /* CityDemoTests */ = {
-			isa = PBXGroup;
-			children = (
-				EA334F0D1CC4C12800E13648 /* CityDemoTests.m */,
-				EA334F0F1CC4C12800E13648 /* Info.plist */,
-			);
-			path = CityDemoTests;
-			sourceTree = "<group>";
-		};
-		EA334F171CC4C12800E13648 /* CityDemoUITests */ = {
-			isa = PBXGroup;
-			children = (
-				EA334F181CC4C12800E13648 /* CityDemoUITests.m */,
-				EA334F1A1CC4C12800E13648 /* Info.plist */,
-			);
-			path = CityDemoUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA334EEF1CC4C12800E13648 /* CityDemo */ = {
+		EA334EEF1CC4C12800E13648 /* TableVCAndCollentionV */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA334F1D1CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemo" */;
+			buildConfigurationList = EA334F1D1CC4C12800E13648 /* Build configuration list for PBXNativeTarget "TableVCAndCollentionV" */;
 			buildPhases = (
 				EA334EEC1CC4C12800E13648 /* Sources */,
 				EA334EED1CC4C12800E13648 /* Frameworks */,
@@ -155,46 +134,10 @@
 			);
 			dependencies = (
 			);
-			name = CityDemo;
+			name = TableVCAndCollentionV;
 			productName = CityDemo;
-			productReference = EA334EF01CC4C12800E13648 /* CityDemo.app */;
+			productReference = EA334EF01CC4C12800E13648 /* TableVCAndCollentionV.app */;
 			productType = "com.apple.product-type.application";
-		};
-		EA334F081CC4C12800E13648 /* CityDemoTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EA334F201CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemoTests" */;
-			buildPhases = (
-				EA334F051CC4C12800E13648 /* Sources */,
-				EA334F061CC4C12800E13648 /* Frameworks */,
-				EA334F071CC4C12800E13648 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				EA334F0B1CC4C12800E13648 /* PBXTargetDependency */,
-			);
-			name = CityDemoTests;
-			productName = CityDemoTests;
-			productReference = EA334F091CC4C12800E13648 /* CityDemoTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		EA334F131CC4C12800E13648 /* CityDemoUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EA334F231CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemoUITests" */;
-			buildPhases = (
-				EA334F101CC4C12800E13648 /* Sources */,
-				EA334F111CC4C12800E13648 /* Frameworks */,
-				EA334F121CC4C12800E13648 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				EA334F161CC4C12800E13648 /* PBXTargetDependency */,
-			);
-			name = CityDemoUITests;
-			productName = CityDemoUITests;
-			productReference = EA334F141CC4C12800E13648 /* CityDemoUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -203,22 +146,14 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "李海瑞";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					EA334EEF1CC4C12800E13648 = {
 						CreatedOnToolsVersion = 7.3;
 					};
-					EA334F081CC4C12800E13648 = {
-						CreatedOnToolsVersion = 7.3;
-						TestTargetID = EA334EEF1CC4C12800E13648;
-					};
-					EA334F131CC4C12800E13648 = {
-						CreatedOnToolsVersion = 7.3;
-						TestTargetID = EA334EEF1CC4C12800E13648;
-					};
 				};
 			};
-			buildConfigurationList = EA334EEB1CC4C12700E13648 /* Build configuration list for PBXProject "CityDemo" */;
+			buildConfigurationList = EA334EEB1CC4C12700E13648 /* Build configuration list for PBXProject "TableVCAndCollentionV" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -231,9 +166,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA334EEF1CC4C12800E13648 /* CityDemo */,
-				EA334F081CC4C12800E13648 /* CityDemoTests */,
-				EA334F131CC4C12800E13648 /* CityDemoUITests */,
+				EA334EEF1CC4C12800E13648 /* TableVCAndCollentionV */,
 			);
 		};
 /* End PBXProject section */
@@ -244,22 +177,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA334F031CC4C12800E13648 /* LaunchScreen.storyboard in Resources */,
+				1F4B8C2C1D77CFE700B35498 /* PlaceCell1.xib in Resources */,
 				EA334F001CC4C12800E13648 /* Assets.xcassets in Resources */,
+				EA334F2A1CC4C38800E13648 /* CityTableViewCell.xib in Resources */,
+				EA334F2F1CC4D08F00E13648 /* PlaceCell.xib in Resources */,
+				EAEADE731EFA12B00065EB5E /* Default-568h@2x.png in Resources */,
+				1F4B8C2A1D77CFE700B35498 /* CityTableViewCell1.xib in Resources */,
 				EA334EFE1CC4C12800E13648 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EA334F071CC4C12800E13648 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EA334F121CC4C12800E13648 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,42 +194,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F4B8C291D77CFE700B35498 /* CityTableViewCell1.m in Sources */,
+				1F4B8C2B1D77CFE700B35498 /* PlaceCell1.m in Sources */,
 				EA334EFB1CC4C12800E13648 /* ViewController.m in Sources */,
+				1F4B8C2F1D78041E00B35498 /* ABCViewController.m in Sources */,
+				EA334F2E1CC4D08F00E13648 /* PlaceCell.m in Sources */,
 				EA334EF81CC4C12800E13648 /* AppDelegate.m in Sources */,
+				EA334F291CC4C38800E13648 /* CityTableViewCell.m in Sources */,
 				EA334EF51CC4C12800E13648 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EA334F051CC4C12800E13648 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EA334F0E1CC4C12800E13648 /* CityDemoTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EA334F101CC4C12800E13648 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EA334F191CC4C12800E13648 /* CityDemoUITests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		EA334F0B1CC4C12800E13648 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = EA334EEF1CC4C12800E13648 /* CityDemo */;
-			targetProxy = EA334F0A1CC4C12800E13648 /* PBXContainerItemProxy */;
-		};
-		EA334F161CC4C12800E13648 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = EA334EEF1CC4C12800E13648 /* CityDemo */;
-			targetProxy = EA334F151CC4C12800E13648 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		EA334EFC1CC4C12800E13648 /* Main.storyboard */ = {
@@ -415,7 +315,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = CityDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/TableVCAndCollentionV/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -426,63 +327,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = CityDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/TableVCAndCollentionV/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		EA334F211CC4C12800E13648 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = CityDemoTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemoTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CityDemo.app/CityDemo";
-			};
-			name = Debug;
-		};
-		EA334F221CC4C12800E13648 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = CityDemoTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemoTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CityDemo.app/CityDemo";
-			};
-			name = Release;
-		};
-		EA334F241CC4C12800E13648 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = CityDemoUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemoUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = CityDemo;
-			};
-			name = Debug;
-		};
-		EA334F251CC4C12800E13648 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = CityDemoUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xwpl.CityDemoUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = CityDemo;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA334EEB1CC4C12700E13648 /* Build configuration list for PBXProject "CityDemo" */ = {
+		EA334EEB1CC4C12700E13648 /* Build configuration list for PBXProject "TableVCAndCollentionV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA334F1B1CC4C12800E13648 /* Debug */,
@@ -491,29 +347,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA334F1D1CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemo" */ = {
+		EA334F1D1CC4C12800E13648 /* Build configuration list for PBXNativeTarget "TableVCAndCollentionV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA334F1E1CC4C12800E13648 /* Debug */,
 				EA334F1F1CC4C12800E13648 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		EA334F201CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemoTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EA334F211CC4C12800E13648 /* Debug */,
-				EA334F221CC4C12800E13648 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		EA334F231CC4C12800E13648 /* Build configuration list for PBXNativeTarget "CityDemoUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EA334F241CC4C12800E13648 /* Debug */,
-				EA334F251CC4C12800E13648 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
